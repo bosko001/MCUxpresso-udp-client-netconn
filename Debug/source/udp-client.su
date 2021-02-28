@@ -1,0 +1,2 @@
+udp-client.c:31:1:udp_client_thread	64	static
+udp-client.c:64:5:main	48	static
